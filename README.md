@@ -6,3 +6,5 @@ La energía de todas las fuentes de generación de energía no fósil se contabi
 La URSS incluye la CEI, Georgia, Ucrania y los Estados bálticos.
 Excluye Estonia, Letonia y Lituania antes de 1985 y Eslovenia antes de 1990.
 Medida: Gigajoule per capita
+
+#Este es el cambio de prueba
